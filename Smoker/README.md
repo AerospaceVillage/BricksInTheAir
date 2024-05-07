@@ -130,6 +130,6 @@ The smoker can be triggered by any external circuit, however it was always desig
 - Pre position heat shrink tubing (2 samller ones for each wire and 1 larger one for both) to the LED wire.
 - Solder the BLACK JST-PH 2.0 Male side to GND and the RED JST-PH 2.0 Male to the POSITIVE.
 - Heat up the heat shrink material to protect the recently soldered connections.
-- Plug the modified wire into a LEGO battery pack and also into the smoker. Turn the battery On/Off to ensure that the LED illuminates AND acrivates the attached smoker.
+- Plug the modified wire into a LEGO battery pack and also into the smoker. Turn the battery On/Off to ensure that the LED illuminates AND activates the attached smoker.
 
 ![Step 1](./Images/Lego_LED_Assembled.png)
