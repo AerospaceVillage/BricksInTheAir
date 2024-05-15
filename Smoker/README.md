@@ -118,6 +118,13 @@ Wiring is now done! Congratulations!
 - Almost done. Carefully route the wires into the enclosure so that the lid can be seated flush to the top of the enclosure.
 - Using ~6mm length screws attach the lid in the 4 corners and enjoy.
 
+**Step 6**
+- Modify the eSig end to acepct 3/16" tubing and or a [Lego Technic Pin](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780#T=C) 
+using a Dremel or similar tool etch away a small amount of material.
+
+![Step 6](./Images/eSig_Mod.png)
+![Step 6](./Images/eSig_Completed.png)
+
 ### Lego Integration
 
 The smoker can be triggered by any external circuit, however it was always designed to complement the Bricks in the Air Lego kits and as such intended to be triggered or activated by a Lego Power Functions LED attachemnt. The following steps outline how to modify the Lego Power Functions LED to trigger the smoker.
